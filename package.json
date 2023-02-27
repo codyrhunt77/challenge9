@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyrhunt77/challenge9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codyrhunt77/challenge9/issues"
+  },
+  "homepage": "https://github.com/codyrhunt77/challenge9#readme"
 }
