@@ -42,6 +42,11 @@ const questions = [
         name:'contribution',
         message:'Who helped with this repo?',
     },
+    {
+        type:'input',
+        name:'test',
+        default:'npm test',
+    },
     
 ];
 
